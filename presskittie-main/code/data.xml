@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Ignite VR</title>
+	<founding-date>September 1, 2010</founding-date>
+	<website></website>
+	<based-in>Singapore</based-in>
+	
+	<press-contact>roy@ignite-vr.com</press-contact>
+	<phone></phone>
+	<address>
+		<line></line>
+		<line></line>
+		<line></line>
+	</address>
+
+	<socials>
+		<social>
+			<name>Facebook</name>
+			<link>https://www.facebook.com/ignitevr/</link>
+		</social>
+		<social>
+			<name>Instagram</name>
+			<link>https://www.instagram.com/ignitevr/</link>
+		</social>
+		<social>
+			<name>Youtube</name>
+			<link>https://www.youtube.com/@ignitevrsingaporevreventre3726</link>
+		</social>
+	</socials>
+
+	<description>
+	Ignite VR was a VR company that started from 2016 to 2022. This site shows our pride and joys during the period of operations.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Beginnings</header>
+			<text>Roy and Kenneth first met at a VR meetup. When they first tried a HTC Vive Dev kit that was probably one of the first in Singapore, it blew their mind on how the VR device could really bring your into another world. Position tracking at such low latency was really something that not seen before and that was when we started to think about how we can show more people this technology. They decided to start a company together and Ignite VR was borned.</text>
+		</history>
+		<history>
+			<header>Arcade Days</header>
+			<text>Finding a relatively cheap and central location at Marina Square for a 6 months period, Ignite VR started the first VR arcade in Singapore. Roy left his previous job to do this full time and was joined by his NS friend Muhaimin to run the day-to-day operations together. The location had 6 HTC Vive VR booths and there were couchs where people can sit and watch their friends take turns to play VR games. Weekdays was very low in footfall with less than $100 in revenue daily, but almost every weekend was fully booked. At the end of the 6 months period, we saw that we could barely cover our expenses despite working long 12 hours day and discounted rental cost, so we decided to stop having the arcade despite bringing much fun to over 5000 people.</text>
+		</history>
+		<history>
+			<header>Events Arc</header>
+			<text>Something we learnt during the arcade days was that companies are interested in engaging us to set up VR booths for events such as Dinner and Dance, Roadshows, Carnivals, Conferences. These booths serve as entertainment sideshows for these events. Each VR station went for around $1000 for a 4 hour engagement and in terms of effieiency, we were making the same as the arcade for like 20% of the work. We did over 100 events from 2017 to early 2020 and it was great while it last.</text>
+		</history>
+		<history>
+			<header>Content Development</header>
+			<text>We had event engagement about 5-10 days a month so that meant that we had many off days where there was nothing much to do. We started tinkering with making our own content during this period using Unity3d and Unreal Engine. We made a few non-game VR experiences as well as some game experiences that was published to the Steam and Meta(then Oculus) Store platforms. We had enough revenue from our events side to hire Mervyn who started as an intern and became the company's only full time developer. Creating our own content fueled our creative fire and was really important for us after covid came and decimated the events business. It was how we could continue for 1.5 years more before we finally shuttered.</text>
+		</history>
+		<history>
+			<header>Beyond</header>
+			<text>Towards the end of the company life, we had revenue but it was not consistent as we get paid after hitting certain milestones and it was tough getting new business outside of existing partners but that couldn't last forever. We were all growing to the next stages in our personal lives but our career growth wasn't moving in the same trajectory. Each of us found other opportunities and left. Despite not having a successful exit, we all had a great experience being early adopters of a new emerging technology and still made plenty of great memories together.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Arcade Mixed Reality Compilation</name>
+			<youtube>tVf4hN8D0TA</youtube>
+		</trailer>
+		<trailer>
+			<name>IgKnight Food Fight</name>
+			<youtube>LxrncjtxULY</youtube>
+		</trailer>
+		<trailer>
+			<name>IgKnight Golf Defender</name>
+			<youtube>iNwcsZa-1Yc</youtube>
+		</trailer>
+		<trailer>
+			<name>Under The Sea VR</name>
+			<youtube>LF7cvt6_Qrg</youtube>
+		</trailer>
+		<trailer>
+			<name>NutriHero</name>
+			<youtube>GGlNlhOXVeY</youtube>
+		</trailer>
+		<trailer>
+			<name>Tian An Digital Twin</name>
+			<youtube>d3gBzpv9S4A</youtube>
+		</trailer>
+		<trailer>
+			<name>Chinese New Year Virtual Production</name>
+			<vimeo>519342746</vimeo>
+		</trailer>
+		<trailer>
+			<name>Umrah VR</name>
+			<youtube>goug5d3xA_4</youtube>
+		</trailer>
+		<trailer>
+			<name>Build And Play Arena</name>
+			<youtube>0bzJdrCC4Rk</youtube>
+		</trailer>		
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Winner in Health Innovation Tech Challenge 2017</description>
+			<info>Made a underwater VR app that helps kids face anaesthesia and surgery better!</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>Look ma i made it!</description>
+			<name>Straits Times the national newspaper</name>
+			<website>We thought we would get more business from this but nobody reads newspaper!</website>
+			<link>https://www.straitstimes.com/lifestyle/entertainment/living-in-a-fantasy-world</link>
+		</quote>
+		<quote>
+			<description>Invite you into another reality</description>
+			<name>Zaoboa the chinese newspaper in Singapore</name>
+			<website>Zaobao write up on Roy's journey</website>
+			<link>https://www.zaobao.com.sg/znews/singapore/story20180919-892225</link>
+		</quote>
+		<quote>
+			<description>Did it really shine?</description>
+			<name>Straits time the national newspaper</name>
+			<website>Straits Times ask me 1 question</website>
+			<link>https://www.straitstimes.com/tech/time-for-virtual-reality-and-augmented-reality-to-shine</link>
+		</quote>
+		<quote>
+			<description>Interview on creating content</description>
+			<name>IPOS</name>
+			<website>Youtube video</website>
+			<link>https://www.youtube.com/watch?v=ISQNceXW3Xc</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	
+	<credits>
+		<credit>
+			<person>Roy</person>
+			<role>Face of the company</role>
+		</credit>
+		<credit>
+			<person>Kenneth</person>
+			<role>Co-starter, Made the first VR game from Singapore</role>
+		</credit>
+		<credit>
+			<person>Muhaimin</person>
+			<role>Ops guy</role>
+		</credit>
+		<credit>
+			<person>Mervyn</person>
+			<role>Made all our games</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>roy@ignite-vr.com</mail>
+		</contact>
+	</contacts>
+</game>
